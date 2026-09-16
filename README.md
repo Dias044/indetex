@@ -1,0 +1,2 @@
+# indetex
+lab1
